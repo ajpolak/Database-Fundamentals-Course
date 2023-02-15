@@ -1,1 +1,1 @@
-# CNIT-272---Database-Fundamentals
+# Database-Fundamentals with SQL
